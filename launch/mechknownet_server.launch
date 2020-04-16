@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="mechknownet" type="mask_rcnn_server.py" name="mrcnn_server" output="screen"/>
+  <node pkg="mechknownet" type="mechknownet_detect_server.py" name="mechknownet_detect_server" output="screen"/>
+  <node pkg="mechknownet" type="mechknownet_send_tf.py" name="mechknownet_tf_server" output="screen"/>
+
+</launch>

@@ -1,0 +1,8 @@
+string ManipulateObj
+string AssociateObj
+string Action
+string WhichDemo
+float32[] BoundingBox
+---
+bool Success
+string Report

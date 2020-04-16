@@ -1,0 +1,7 @@
+int32 NumObjs
+int32 TrajID
+float32[] TargetObjectFlatPointCloud
+float32[] CandidateObjectFlatPointCloud
+---
+float32[] PredictedPointLabel
+float32[] Poses

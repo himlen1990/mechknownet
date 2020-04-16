@@ -1,0 +1,5 @@
+sensor_msgs/Image Image
+---
+sensor_msgs/Image[] Masks
+int32[] Class_ids
+int32[] Scores
