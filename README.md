@@ -12,7 +12,8 @@ catkin bt under ros environment
 
 Usage
 ====
-download the trained mrcnn weights from https://drive.google.com/file/d/1R5yu8HNPjJdUErYi6YSLeGepDkDeZhQ-/view?usp=sharing
+download the trained mrcnn weights from https://drive.google.com/file/d/1R5yu8HNPjJdUErYi6YSLeGepDkDeZhQ-/view?usp=sharing then put it on mechknownet/script/mask_rcnn/
+
 or you can train your mrcnn model using the tool in https://github.com/himlen1990/toolbox 
 
 roslaunch mechknownet mechknownet_server.launch
